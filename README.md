@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a third-year Financial Mathematics student at Vilnius University also comleting Data Analytics course at Turing College.
+I am a third-year Financial Mathematics student at Vilnius University also finishing Data Analytics course at Turing College.
 
 
 
